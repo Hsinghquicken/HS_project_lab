@@ -4,3 +4,6 @@ This is First text file for Git.
 Do Good !!
 
 this is the new feature branch
+Emily will aslo buy me a Harley for Christmas!
+She will get coal from Santa
+:)
